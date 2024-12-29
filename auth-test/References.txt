@@ -1,0 +1,4 @@
+References
+
+https://github.com/wlsf82/programmatic-login-with-cypress 
+https://dev.to/walmyrlimaesilv/how-to-login-programmatically-with-cypress-2iam
