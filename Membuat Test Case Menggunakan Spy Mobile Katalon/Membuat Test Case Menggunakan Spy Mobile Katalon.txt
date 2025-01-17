@@ -1,0 +1,6 @@
+Membuat Test Case Menggunakan Spy Mobile Katalon
+
+Spesifikasi Android Emulator : Pixel 5, Android 9 (API 28)
+Link Video : https://www.veed.io/view/2ca548ef-d8f5-4d88-8faf-fb1cc7d9a7b1?panel=share
+Link Laporan : https://docs.google.com/document/d/1HdBk4KWAYdu3LrbBwCdOx32XQN-oa1Q3dERPPBHZ3jI/edit?usp=sharing
+
